@@ -17,6 +17,7 @@ public class ExampleWednesday {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Learning push");
+        System.out.println("1st commit");
     }
     
 }
