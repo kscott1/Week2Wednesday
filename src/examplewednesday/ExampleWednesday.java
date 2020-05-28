@@ -19,6 +19,7 @@ public class ExampleWednesday {
         System.out.println("Learning push");
         System.out.println("1st commit");
         System.out.println("wha gwan");
+        System.out.println("osmow's chicken on the rocks");
     }
     
 }
